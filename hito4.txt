@@ -1,0 +1,20 @@
+○ Descripción general del sitio web
+Sitio web solicitado por la empresa OnlyFlans, especialistas en flanes, este sitio se realizó según las especificaciones, utilizando html con las potencialidades del framework de bootstrap y Django, el trabajo se desarrollo pensando en un sitio funcional con la promoción de la fidelización de los clientes y potenciales clientes.
+
+○ Características base del sitio web
+Cómo características bases del sitio tenemos las páginas solicitadas de inicio, acerca (que fue modificado a Nosotros), Contacto e Iniciar Sesión
+Una vez que el usuario ingresa a su sesión, el botón cambia a cerrar sesión y se muestra contenido con flanes exclusivos para esos clientes.
+
+
+○ Características personalizadas añadidas al sitio web
+Cómo caracteristicas añadidas se realizaron algunas modificaciones de diseño, para mejorar la visualización, se puso un aviso de cierre de sesión exitoso y se agrego la opción de Hacer pedido, el cual está diferenciado para clientes no inscritos y clientes inscritos, a parte se invita a comprar e iniciar las sesiones
+
+
+○ Problemas o dificultades con los que se encontraron a la hora de desarrollar el
+sitio web base
+Uno de los principales problemas fue el lidiar con la frustración ante los mensajes de error y el problema interno para instalar la máquina virtual, ya que no me reconocia de forma normal la instalación de django y el trabajo de forma modular, ya que el trabajar e interactuar entre las distintas partes, donde se manifestaba la falta de práctica con esta forma de trabajar. La atención al detalle fue otro problema de ojo inexperto
+
+
+○ Problemas o dificultades con los que se encontraron a la hora de añadir
+características personalizadas.
+La decisión de elegir que hacer, ya que había que optimizar el tiempo y lograr las funcionalidades de forma correcta, el lidiar con las frustraciones de la falta de practica del trabajo modular, siempre estaba el temor que al hacer algo el sitio dejara de funcionar y se perdiera el trabajo anterior, pero son temores propios de cuando uno parte
